@@ -2,7 +2,15 @@
 ### 💬 About me
 I am Ishanka Udishan, from Sri Lanka.
 
-### 🔭 I’m currently working on my final year research project :sparkles:
+### 🔭 I’m currently working 
+on my final year research project :sparkles:
+
+### 🌱 I’m currently learning
+* Data Science and Analytics :metal:
+* Machine Learning :metal:
+* Artificial Intelligence :metal:
+* Software Developments :metal:
+
 
 <!--
 **RPIUdishan/RPIUdishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
