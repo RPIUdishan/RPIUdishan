@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### 💬 About me
-HI
+I am Ishanka Udishan, from Sri Lanka.
+
+### 🔭 I’m currently working on my final year research project :sparkles
+
 <!--
 **RPIUdishan/RPIUdishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ###
