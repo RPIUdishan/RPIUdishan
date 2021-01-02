@@ -1,15 +1,18 @@
-### Hi there 👋
-### 💬 About me
-I am Ishanka Udishan, from Sri Lanka.
+### Hi there 👋 I am Ishanka Udishan
 
-### 🔭 I’m currently working 
+#### 💬 About me
+Student | Software Developer | Researcher 
+
+#### 🔭 I’m currently working 
 on my final year research project :sparkles:
 
-### 🌱 I’m currently learning
+#### 🌱 I’m currently learning
 * Data Science and Analytics :metal:
 * Machine Learning :metal:
 * Artificial Intelligence :metal:
 * Software Developments :metal:
+
+
 
 
 <!--
