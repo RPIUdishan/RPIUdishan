@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Ishanka Udishan :octocat:
 
 #### 💬 About me :
-Student :mortar_board: | Software Developer | Researcher 
+Student :mortar_board: | Software Developer :computer: | Researcher :memo:
 
 #### 🌱 I’m currently learning :
 Software Developments | Software Designing | Machine Learning | Artificial Intelligence | Data Science | Computer Science
@@ -10,7 +10,7 @@ Software Developments | Software Designing | Machine Learning | Artificial Intel
 People who has really intersted in computer science and data science :rocket:
 
 #### ⚡ Fun fact :
-Blog Reader | Blog Writer 
+Blog Reader :book: | Blog Writer :black_nib:
 
 
 
