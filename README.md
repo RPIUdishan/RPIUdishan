@@ -15,7 +15,8 @@ Blog Reader :book: | Blog Writer :black_nib:
 #### Find me on
 <a href="https://m.facebook.com/people/Ishanka-Udishan/100009255044722?fref=nf">
     <img src="image/fb.png" width="30"/>
-</a> | <a href="www.linkedin.com/in/ishanka-udishan">
+</a> | 
+<a href="www.linkedin.com/in/ishanka-udishan">
     <img src="image/link.png" width="30"/>
 </a> 
 ### ⚙️ &nbsp;GitHub Analytics
