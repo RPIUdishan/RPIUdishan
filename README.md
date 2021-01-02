@@ -12,6 +12,10 @@ People who has really intersted in computer science and data science :rocket:
 #### ⚡ Fun fact :
 Blog Reader :book: | Blog Writer :black_nib:
 
+#### Find me on
+<a href="https://m.facebook.com/people/Ishanka-Udishan/100009255044722?fref=nf">
+    <img src="fb.png"/>
+</a>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
