@@ -30,7 +30,7 @@ Blog Reader :book: | Blog Writer :black_nib:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/RPIUdishan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RPIUdishan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RPIUdishan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
