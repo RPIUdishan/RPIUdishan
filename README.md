@@ -22,9 +22,11 @@ Blog Reader :book: | Blog Writer :black_nib:
 <a href="https://twitter.com/i_udishan">
     <img src="image/twitter.png" width="30"/>
 </a> 
-<img src="https://medium.com/@ishankaudishan2"/>
+<a href="https://medium.com/@ishankaudishan2">
+    <img src="image/med.png" width="30"/>
+</a> 
 
-https://medium.com/@ishankaudishan2
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
