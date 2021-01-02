@@ -4,7 +4,7 @@
 Student :mortar_board: | Software Developer :computer: | Researcher :memo:
 
 #### 🌱 I’m currently learning :
-Software Developments | Software Designing | Machine Learning | Artificial Intelligence | Data Science | Computer Science
+Software Developments :triangular_flag_on_post: | Software Designing :triangular_flag_on_post: | Machine Learning :triangular_flag_on_post: | Artificial Intelligence :triangular_flag_on_post: | Data Science :triangular_flag_on_post: | Computer Science :triangular_flag_on_post:
 
 #### 👯 I’m looking to collaborate on :
 People who has really intersted in computer science and data science :rocket:
