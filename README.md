@@ -1,16 +1,16 @@
 ### Hi there 👋 I am Ishanka Udishan
 
-#### 💬 About me
+#### 💬 About me :
 Student | Software Developer | Researcher 
 
-#### 🔭 I’m currently working 
-on my final year research project :sparkles:
+#### 🌱 I’m currently learning :
+Software Developments | Software Designing | Machine Learning | Artificial Intelligence | Data Science | Computer Science
 
-#### 🌱 I’m currently learning
-* Data Science and Analytics :metal:
-* Machine Learning :metal:
-* Artificial Intelligence :metal:
-* Software Developments :metal:
+#### 👯 I’m looking to collaborate on :
+People who has really intersted in computer science and data science :rocket:
+
+#### ⚡ Fun fact :
+Blog Reader | Blog Writer 
 
 
 
