@@ -1,5 +1,7 @@
 ### Hi there 👋
-![cover](image/img.jpg)
+<!-- ![cover](image/img.jpg) -->
+<img src="image/img.jpg" width="200" />
+
 <!--
 **RPIUdishan/RPIUdishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ###
